@@ -1,0 +1,8 @@
+# CobaltSCSI
+:toc: macro
+
+CobaltSCSI is firmware that does a thing just like the other thing that we "adopted" it from.
+
+## Licenses
+
+### Firmware

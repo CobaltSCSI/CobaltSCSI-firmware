@@ -1,0 +1,14 @@
+{
+    "name": "CobaltSCSI_platform_RP2MCU",
+    "version": "1.0",
+    "repository": { "type": "git", "url": "git://github.com/CobaltSCSI/CobaltSCSI-firmware.git" },
+    "authors": [{ "name": "CobaltSCSI", "email": "support@wecandosearchanbdreplacetoo.com" }],
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://cobaltscsi.com",
+    "frameworks": "*",
+    "platforms": "*",
+    "dependencies":
+    {
+        "CUEParser": "https://github.com/rabbitholecomputing/CUEParser#v2025.02.25"
+    }
+}
